@@ -1,0 +1,7 @@
+[package]
+name = "guessing_gam"
+version = "0.1.0"
+authors = ["aeyeong <iiogmgo@ridi.com>"]
+
+[dependencies]
+rand = "0.3.14"
